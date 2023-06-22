@@ -1,0 +1,3 @@
+gems,5,10,50
+kitkat,20,4,80
+milkyway,20,5,100
